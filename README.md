@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... CyberSpoh Project, Personal Portfolio Blog Project.
+- 🔭 I’m currently working on ... Personal Portfolio Blog Project.
 - 🌱 I’m currently learning ... PHP, Web Design, React, Node
 - Total Repository: 8
 - 📫 How to reach me: ...
