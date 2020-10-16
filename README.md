@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Paperdaz, Complain Register Hybrid App and  Personal Portfolio Blog Project.
-- 🌱 I’m currently learning ... PHP, Web Design, React, Node
-- Total Repository: 8
+- 🌱 I’m currently learning ... Web Design, React, Node
+- Total Repository: 9
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
