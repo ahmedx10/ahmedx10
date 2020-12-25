@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Paperdaz, Complain Register Hybrid App and  Personal Portfolio Blog Project.
+- 🔭 I’m currently working on ... Dave nuxt App, Complain Register Hybrid App and  Personal Portfolio Blog Project.
 - 🌱 I’m currently learning ... Web Design, React, Node
 - Total Repository: 10
 - 📫 How to reach me: ...
